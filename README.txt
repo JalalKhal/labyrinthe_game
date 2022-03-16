@@ -10,4 +10,4 @@ Création d'un labyrinthe sous HTML, CSS et Javascript:
 1 fichier projetbac.html pour la génération de la page HTML
 1 fichier projet.js pour l'élaboration du labyrinthe
 
-Améliorations possible: via php pour heberger le site sur le web et que des utilisateurs puissent l'utiliser
+Améliorations possible: via php pour héberger le site sur le web et que des utilisateurs puissent l'utiliser
